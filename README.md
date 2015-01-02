@@ -6,7 +6,7 @@ The RubySpec files are written using RSpec-compatible syntax. MSpec is a
 purpose-built framework for running RubySpec. For more information, see the
 http://github.com/rubyspec/mspec project.
 
-[![Build Status](https://travis-ci.org/rubyspec/rubyspec.png)](https://travis-ci.org/rubyspec/rubyspec)
+[![Build Status](https://travis-ci.org/josephglanville/rubyspec.svg)](https://travis-ci.org/josephglanville/rubyspec)
 
 1. Installing MSpec
 

@@ -1,3 +1,5 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
 # Configuration file for Ruby 2.0-compatible Ruby implementations.
 #
 # Unless you passed to --config (or -B) to MSpec, MSpec will automatically
